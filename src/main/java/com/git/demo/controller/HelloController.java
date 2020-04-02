@@ -11,7 +11,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public Object hello() {
-        return "hello hyq23";
+        return "hello hyq234";
     }
 
 }
