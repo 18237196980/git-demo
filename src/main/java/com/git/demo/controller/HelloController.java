@@ -9,6 +9,7 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public Object hello() {
+        int a = 9;
         return "hello hyq";
     }
 
